@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bad Santa Meme Coin</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="bad_santa_banner.gif" alt="Bad Santa Banner" class="banner">
+    </header>
+    <main>
+        <h1>Welcome to Bad Santa Meme Coin</h1>
+        <p>Bad Santa Meme Coin is here to spread holiday cheer with a twist of rebellion! Join us as we take on the crypto world with a sleigh full of humor and festive chaos.</p>
+        <div class="features">
+            <h2>Features</h2>
+            <ul>
+                <li>🎅 A unique holiday-themed meme coin</li>
+                <li>💰 Fun crypto giveaways</li>
+                <li>🌌 Cosmic-level humor and festive vibes</li>
+            </ul>
+        </div>
+        <div class="cta">
+            <a href="#join">Join the Naughty List Now!</a>
+        </div>
+    </main>
+    <footer>
+        <p>© 2024 Bad Santa Meme Coin. All rights reserved.</p>
+    </footer>
+</body>
+</html>
